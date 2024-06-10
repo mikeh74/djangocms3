@@ -185,7 +185,7 @@ SITE_ID = 1
 
 # A base template is part of this setup
 CMS_TEMPLATES = (
-    ("base.html", _("Standard")),
+    ("fullwidth.html", "Fullwidth"),
 )
 
 # Enable permissions
